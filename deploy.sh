@@ -7,9 +7,6 @@ if pip3 install -t ./layer/python -r requirements.txt;
 then
     echo "Packages installed successfully !!!!!"
     echo "Building the project"
-    echo ${WORKSPACE}
-    mkdir ${WORKSPACE}/.aws-sam && chmod 777 -R ${WORKSPACE}/.aws-sam
-    ls
     sam build
     echo "Deploying the project"
 

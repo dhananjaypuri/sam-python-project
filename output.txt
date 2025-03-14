@@ -1,0 +1,64 @@
+	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  262144 / 10700330  (2.45%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  524288 / 10700330  (4.90%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  786432 / 10700330  (7.35%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  1048576 / 10700330  (9.80%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  1310720 / 10700330  (12.25%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  1572864 / 10700330  (14.70%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  1835008 / 10700330  (17.15%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  2097152 / 10700330  (19.60%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  2359296 / 10700330  (22.05%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  2621440 / 10700330  (24.50%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  2883584 / 10700330  (26.95%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  3145728 / 10700330  (29.40%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  3407872 / 10700330  (31.85%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  3670016 / 10700330  (34.30%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  3932160 / 10700330  (36.75%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  4194304 / 10700330  (39.20%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  4456448 / 10700330  (41.65%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  4718592 / 10700330  (44.10%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  4980736 / 10700330  (46.55%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  5242880 / 10700330  (49.00%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  5457450 / 10700330  (51.00%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  5719594 / 10700330  (53.45%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  5981738 / 10700330  (55.90%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  6243882 / 10700330  (58.35%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  6506026 / 10700330  (60.80%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  6768170 / 10700330  (63.25%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  7030314 / 10700330  (65.70%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  7292458 / 10700330  (68.15%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  7554602 / 10700330  (70.60%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  7816746 / 10700330  (73.05%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  8078890 / 10700330  (75.50%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  8341034 / 10700330  (77.95%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  8603178 / 10700330  (80.40%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  8865322 / 10700330  (82.85%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  9127466 / 10700330  (85.30%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  9389610 / 10700330  (87.75%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  9651754 / 10700330  (90.20%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  9913898 / 10700330  (92.65%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  10176042 / 10700330  (95.10%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  10438186 / 10700330  (97.55%)	Uploading to demo-app/d1ec0df89a5ce63b466141bed8cf87c0  10700330 / 10700330  (100.00%)
+File with same data already exists at demo-app/1189bc327653af5d2c176f00b0f5fff9, skipping upload
+
+	Deploying with following values
+	===============================
+	Stack name                   : demo-python
+	Region                       : ap-south-1
+	Confirm changeset            : False
+	Disable rollback             : True
+	Deployment s3 bucket         : bucket-dj-2024
+	Capabilities                 : ["CAPABILITY_IAM"]
+	Parameter overrides          : {}
+	Signing Profiles             : {}
+
+Initiating deployment
+=====================
+
+	Uploading to demo-app/f9c29f6db20094bbeb931e3efcf432ce.template  849 / 849  (100.00%)
+
+
+Waiting for changeset to be created..
+
+CloudFormation stack changeset
+-------------------------------------------------------------------------------------------------
+Operation                LogicalResourceId        ResourceType             Replacement            
+-------------------------------------------------------------------------------------------------
++ Add                    MyPythonLayer4174dbfa3   AWS::Lambda::LayerVers   N/A                    
+                         5                        ion                                             
+* Modify                 MyLambdaFunction         AWS::Lambda::Function    False                  
+- Delete                 MyPythonLayer50892afe6   AWS::Lambda::LayerVers   N/A                    
+                         b                        ion                                             
+-------------------------------------------------------------------------------------------------
+
+
+Changeset created successfully. arn:aws:cloudformation:ap-south-1:001484053235:changeSet/samcli-deploy1741951067/425f02ca-35f7-4939-ab6b-4a8feb567d7d
+
+
+2025-03-14 16:47:53 - Waiting for stack create/update to complete
+
+CloudFormation events from stack operations (refresh every 5.0 seconds)
+-------------------------------------------------------------------------------------------------
+ResourceStatus           ResourceType             LogicalResourceId        ResourceStatusReason   
+-------------------------------------------------------------------------------------------------
+UPDATE_IN_PROGRESS       AWS::CloudFormation::S   demo-python              User Initiated         
+                         tack                                                                     
+CREATE_IN_PROGRESS       AWS::Lambda::LayerVers   MyPythonLayer4174dbfa3   -                      
+                         ion                      5                                               
+CREATE_IN_PROGRESS       AWS::Lambda::LayerVers   MyPythonLayer4174dbfa3   Resource creation      
+                         ion                      5                        Initiated              
+CREATE_COMPLETE          AWS::Lambda::LayerVers   MyPythonLayer4174dbfa3   -                      
+                         ion                      5                                               
+UPDATE_IN_PROGRESS       AWS::Lambda::Function    MyLambdaFunction         -                      
+UPDATE_COMPLETE          AWS::Lambda::Function    MyLambdaFunction         -                      
+UPDATE_COMPLETE_CLEANU   AWS::CloudFormation::S   demo-python              -                      
+P_IN_PROGRESS            tack                                                                     
+DELETE_SKIPPED           AWS::Lambda::LayerVers   MyPythonLayer50892afe6   -                      
+                         ion                      b                                               
+UPDATE_COMPLETE          AWS::CloudFormation::S   demo-python              -                      
+                         tack                                                                     
+-------------------------------------------------------------------------------------------------
+
+
+Successfully created/updated stack - demo-python in ap-south-1
+

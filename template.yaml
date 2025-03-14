@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  sam-python-app
+
+  Sample SAM Template for sam-python-app
+
+Resources:
+  MyPythonLayer:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      ContentUri: layer/
+      CompatibleArchitectures:
+        - x86_64
+      CompatibleRuntimes:
+        - python3.13
+        - python3.12
+      LayerName: demo-python-layer
+
+  MyLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: code/
+      Architectures:
+        - x86_64
+      Runtime: python3.12
+      Handler: app.lambda_handler
+      Layers:
+        - !Ref MyPythonLayer
+      
+
+# sam deploy --stack-name demo-python \
+#   --region ap-south-1 \
+#   --s3-bucket bucket-dj-2024 \
+#   --capabilities CAPABILITY_IAM \
+#   --no-confirm-changeset
+
+# Make sure to remove resolve s3 from samconfig.toml file if you are using you own bucket

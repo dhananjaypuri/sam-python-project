@@ -7,7 +7,7 @@ if pip3 install -t ./layer/python -r requirements.txt;
 then
     echo "Packages installed successfully !!!!!"
     echo "Building the project"
-    sam build
+    export SAM_CLI_POLL_METRICS=0 && sam build
     echo "Deploying the project"
 
     sam deploy --stack-name demo-python \

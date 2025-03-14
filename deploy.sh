@@ -3,6 +3,7 @@
 echo "Building the project"
 echo "Files in present working Directory"
 ls -al
+id
 if pip3 install -t ./layer/python -r requirements.txt;
 then
     echo "Packages installed successfully !!!!!"
